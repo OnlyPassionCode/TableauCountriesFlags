@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #F5F5F5;
+}
+
+h1{
+    text-align: center;
+    padding: 1rem;
+}
+
+.flag{
+    width: 100px;
+}
+
+table{
+    border-left: 3px solid rgba(0,0,0,0.6);;
+    border-right: 3px solid rgba(0,0,0,0.6);;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+table td, table th{
+    text-align: center;
+    padding: 1rem;
+    border-top: 3px solid rgba(0,0,0,0.6);
+    border-bottom: 3px solid rgba(0,0,0,0.6);
+}
+
+th{
+    position: relative;
+}
+
+th a{
+    color: black;
+}
+
+th img{
+    position: absolute;
+    width: 15px;
+    top: 18px;
+}
