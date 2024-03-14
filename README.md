@@ -1,3 +1,3 @@
 # Exercice Pierre Tableau
 
-## Afficher les pays avec leurs drapeau
+## Afficher les pays avec leurs drapea
